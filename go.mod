@@ -1,4 +1,4 @@
-module github.com/letsencrypt/challtestsrv
+module github.com/orangepizza/challtestsrv
 
 require (
 	github.com/miekg/dns v1.1.1
